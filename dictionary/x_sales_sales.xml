@@ -14,5 +14,8 @@
         <element label="Units Sold" max_length="40" name="units_sold" type="integer"/>
         <element label="Unit Cost" max_length="40" name="unit_cost" type="float"/>
         <element label="Unit Price" max_length="40" name="unit_price" type="float"/>
+        <index name="index">
+            <element name="order_id"/>
+        </index>
     </element>
 </database>

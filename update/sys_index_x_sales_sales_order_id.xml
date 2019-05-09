@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>order_id</col_name_string>
+        <index_col_name element="order_id" name="x_sales_sales">b00e1f71d49533007f440ad17554a4d7</index_col_name>
+        <logical_table_name>x_sales_sales</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-05-09 20:56:00</sys_created_on>
+        <sys_id>8880e775d49533007f440ad17554a4f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sales_sales</sys_name>
+        <sys_package display_value="Sales" source="x_sales">e7ffa7d031203300964ff3d9379385a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales">e7ffa7d031203300964ff3d9379385a4</sys_scope>
+        <sys_update_name>sys_index_x_sales_sales_order_id</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:56:00</sys_updated_on>
+        <table display_value="Sales" name="x_sales_sales">fea2fb1431203300964ff3d93793853e</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

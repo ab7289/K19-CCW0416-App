@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Sales Data Source" max_length="40" name="x_sales_sales_import_set" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item Type" label="Item Type" max_length="40" name="u_item_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Order Date" label="Order Date" max_length="40" name="u_order_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Order ID" label="Order ID" max_length="40" name="u_order_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Order Priority" label="Order Priority" max_length="40" name="u_order_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Region" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sales Channel" label="Sales Channel" max_length="40" name="u_sales_channel" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ship Date" label="Ship Date" max_length="40" name="u_ship_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Cost" label="Total Cost" max_length="40" name="u_total_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Profit" label="Total Profit" max_length="40" name="u_total_profit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Revenue" label="Total Revenue" max_length="40" name="u_total_revenue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Units Sold" label="Units Sold" max_length="40" name="u_units_sold" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unit Cost" label="Unit Cost" max_length="40" name="u_unit_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unit Price" label="Unit Price" max_length="40" name="u_unit_price" type="string"/>
+    </element>
+</database>
